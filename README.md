@@ -1,4 +1,4 @@
-jquery-builder
+jQuery Builder
 ==============
 
-jQuery Library Builder
+A micro-framework for creating jQuery-like libraries.
